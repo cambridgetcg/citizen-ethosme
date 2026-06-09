@@ -1,0 +1,8 @@
+name: ethosme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The character a musical mode carries by the arrangement of its intervals, and the way hearing that mode tunes the listening soul toward that character.
+dependsOn: [youspeak, me, rasame]
